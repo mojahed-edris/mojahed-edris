@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mojahed-edris
-- 👀 I’m interested in ... DevOps 
+- 👀 I’m interested in ... Azure  
 - 🌱 I’m currently learning ... azure az900 
-- 💞️ I’m looking to collaborate on ...Microsoft dynamic 365 Business central using AL Language 
+- 💞️ I’m looking to collaborate on ...Azure 
 - 📫 How to reach me ... +966556138763
 
 <!---
